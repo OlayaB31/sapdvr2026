@@ -5,8 +5,8 @@
  */
 
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'sapd');
-define('DB_USER', 'root');
+define('DB_NAME', 'u785137750_sapdvidarol');
+define('DB_USER', 'u785137750_olaya31');
 define('DB_PASS', '');
 define('DB_CHARSET', 'utf8mb4');
 
