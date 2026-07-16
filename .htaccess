@@ -1,0 +1,6 @@
+# Configuración general del sitio
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+</IfModule>
